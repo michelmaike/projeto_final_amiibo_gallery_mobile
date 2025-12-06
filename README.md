@@ -34,12 +34,12 @@ lib/
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/amiibo-gallery.git
+git clone https://github.com/seu-usuario/projeto_final_amiibo_gallery_mobile.git
 ```
 
 2. Entre na pasta do projeto
 ```bash
-cd amiibo-gallery
+cd projeto_final_amiibo_gallery_mobile
 ```
 
 3. Instale as dependências
