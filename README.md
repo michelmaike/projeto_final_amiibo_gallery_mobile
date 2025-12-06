@@ -83,12 +83,6 @@ flutter run
 - **AmiiboAPI**: https://www.amiiboapi.com/api/amiibo/
 - Dados públicos e gratuitos dos Amiibos Nintendo
 
-## 📸 Screenshots
-
-| Tela de Login | Tela Principal | Tela de Favoritos |
-|---------------|----------------|-------------------|
-| ![Login](screenshots/login.png) | ![Home](screenshots/home.png) | ![Favoritos](screenshots/favorites.png) |
-
 ## 📝 Requisitos
 
 - Flutter SDK (versão 3.9.2 ou superior)
